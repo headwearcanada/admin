@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Headwear Canada
+N;CHARSET=UTF-8:Headwear Canada;;;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:hc@headwearc.com
+TEL;TYPE=WORK,VOICE:1 (905) 405-9551
+ADR;CHARSET=UTF-8;TYPE=WORK:;;3190-B Orlando Drive;Mississauga;ON;L4V 1R5;Canada
+ORG;CHARSET=UTF-8:Headwear Canada
+URL;type=WORK;CHARSET=UTF-8:https://www.headwear.com.au/en_ca
+X-SOCIALPROFILE;TYPE=twitter:https://twitter.com/HeadwearCanada
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/company/headwearcanada/
+REV:2023-05-25T14:53:09.569Z
+END:VCARD
