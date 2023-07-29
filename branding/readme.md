@@ -1,4 +1,4 @@
-# Headwear Canada Admin Repository
+# Headwear Canada Branding Repository
 
 ## **THIS REPOSITORY IS FOR THE USE OF SELECT HEADWEAR CANADA EMPLOYEES *ONLY***
 
