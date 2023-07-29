@@ -6,6 +6,7 @@ Before downloading any content from this repository, note that all files are pas
 
 If you would like to use any of the assets in this repository, please contact Headwear Canada via [email](mailto:hc@headwearc.com?subject=Request%20to%20use%20Headwear%20Canada%20branding%20assets).
 
+<br/><br/>
 Regards,
 
 **Headwear Canada**
